@@ -1,0 +1,98 @@
+
+body {
+    background-color: #f5f5f5;
+}
+
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+    border-radius: 8px;
+    margin: 0 5px;
+    height: 100%;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+h4 {
+    text-align: right;
+}
+
+#abc {
+    display:none;
+    overflow:auto
+}
+
+#fondBlanc {
+    background-color: white;
+}
+
+#buttonCoverLetterGeneration {
+    text-align: center;
+}
+
+#buttonSuggestSynonyms {
+    text-align: right;
+}
+
+#sig {
+    text-align: right;
+    float: right;
+    margin-right: 10%;
+}
+
+#demo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 90%;
+    background-color: white;
+}
+
+#demo2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 100%;
+    background-color: white;
+}
+
+.blahColumna1 {
+    width: 50%;
+    height: 100%;
+}
+
+.blahColumna2 {
+    width: 70%;
+    height: 100%;
+}
+
+.divContainer {
+    display: table;
+    border: none;
+}
+
+.blahContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.divRow {
+    display: table-row;
+    height: auto;
+}
+
+.divColumn {
+    display: table-cell;
+}
+
+.kbw-signature {
+    display: inline-block;
+    border: 1px dashed #444444;
+    width: 200px;
+    height: 200px;
+}
+
